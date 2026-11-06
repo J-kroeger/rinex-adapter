@@ -1,8 +1,8 @@
 RINEX-ADAPTER v1.0
 ==================
 
-Version: 1.0
-Release date: 2026-09-08
+Version: 1.0.1
+Release date: 2026-11-01
 
 A tool to adapt RINEX 3.x observation file headers and epochs. It can edit or
 insert header records, apply a time filter, thin the sampling interval, and do
@@ -176,17 +176,18 @@ STAY INFORMED
   first starts, and the Contact dialog can open it again at any time.
 
   Subscribe (web form):
-    https://listserv.uni-hannover.de/cgi-bin/wa?SUBED1=SOFTWARE-IFE&A=1
+    https://lists.uni-hannover.de/sympa/subscribe/ife-software
 
   Subscribe by e-mail:
-    send the single line   subscribe software-ife
-    to                     listserv@listserv.uni-hannover.de
+    send the two lines     subscribe ife-software
+                           QUIT
+    to                     sympa@lists.uni-hannover.de
 
-  Send that command line on its own. LISTSERV reads the message body line by
-  line, so a signature added by your mail program can stop it.
+  The word QUIT tells the list server to stop reading, so a signature added
+  by your mail program does no harm.
 
-  List address: SOFTWARE-IFE@LISTSERV.UNI-HANNOVER.DE
+  List address: ife-software@lists.uni-hannover.de
 
-  LISTSERV answers with a confirmation mail. The subscription becomes active
-  only after you reply to it and a moderator approves the request. Subscribing
-  is voluntary and you can leave the list at any time.
+  The list server answers with a mail that asks you to confirm. The
+  subscription becomes active once you confirm it. Subscribing is voluntary
+  and you can leave the list at any time.
